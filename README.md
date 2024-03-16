@@ -40,16 +40,15 @@ RTL realization
 Output:
 
 RTL
-
 ![table 2](https://github.com/Kalyanesree/implementation-of-combinational-logic/assets/163311552/b456f9f6-2bd8-4ecf-b3f8-6b66a358ab48)
 
 
 Timing Diagram
+1
 ![timing 2](https://github.com/Kalyanesree/implementation-of-combinational-logic/assets/163311552/4b8b5937-95b6-409d-bc49-c22f2eb23985)
 
 
 
 Result:
-
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
