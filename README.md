@@ -35,6 +35,7 @@ Program:
 Developed by:KALYANE SREE M     RegisterNumber:212222050028
 
 RTL realization
+![circuit 2](https://github.com/Kalyanesree/implementation-of-combinational-logic/assets/163311552/ddd53e4d-956d-4e9c-9d46-7893c5d86f7f)
 
 Output:
 
