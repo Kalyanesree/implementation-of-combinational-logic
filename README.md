@@ -29,8 +29,10 @@ Procedure
 5.For different input combinations generate the timing diagram.
 
 Program:
+module expfour(a,b,c,d,f)
+input a,b,c,d
+output f;
 
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
 
 Developed by:KALYANE SREE M     RegisterNumber:212222050028
 
@@ -44,7 +46,6 @@ RTL
 
 
 Timing Diagram
-1
 ![timing 2](https://github.com/Kalyanesree/implementation-of-combinational-logic/assets/163311552/4b8b5937-95b6-409d-bc49-c22f2eb23985)
 
 
