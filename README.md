@@ -12,9 +12,9 @@ Hardware – PCs, Cyclone II , USB flasher
 
 Software – Quartus prime
 
-Theory
+Theory 
+    Logic gates aare electronic circuits which perform logical functions on one or more inputs to produce one output.
 
-Logic Diagram
 
 Procedure
 
@@ -28,7 +28,7 @@ Procedure
 
 5.For different input combinations generate the timing diagram.
 
-
+PROGRAM:
 ![program 2](https://github.com/Kalyanesree/implementation-of-combinational-logic/assets/163311552/ca62994f-57bb-4143-b9c2-54a616c0cb1a)
 
 
