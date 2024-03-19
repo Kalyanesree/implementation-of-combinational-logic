@@ -29,6 +29,9 @@ Procedure
 5.For different input combinations generate the timing diagram.
 
 
+![program 2](https://github.com/Kalyanesree/implementation-of-combinational-logic/assets/163311552/ca62994f-57bb-4143-b9c2-54a616c0cb1a)
+
+
 
 
 
