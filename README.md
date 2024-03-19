@@ -28,28 +28,8 @@ Procedure
 
 5.For different input combinations generate the timing diagram.
 
-PROGRAM 1:
-module expfour(a,b,c,d,f);
-input a,b,c,d;
-output f;
-wire f,f2,f3;
-assign f1 = (~c&~b&~a);
-assign f2 = (~d&~c&~a);
-assign f = (c&~(~b)&~a);
-assign f = f1&~f2&`f3;
-endmoudule
 
 
-PROGRAM 2;
-module expfourtwo(a,b,c,d,f);
-input f;
-wire f1,f2,f3,f4;
-assign f1 = c&(~b)&a;
-assign f2 = d&(~c)&a;
-assign f3 = c&(~b)&a;
-assign f4 = ~(f1|f2|f3);
-not(f,f4);
-endmodule
 
 
 
