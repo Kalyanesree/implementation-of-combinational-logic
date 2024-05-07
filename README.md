@@ -1,3 +1,5 @@
+**BOOLEAN FUNCTION MINIMIZATION
+**
 AIM:
 
 To implement the given logic function verify its operation in Quartus using Verilog programming.
@@ -51,5 +53,6 @@ Timing Diagram
 
 
 Result:
+
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
