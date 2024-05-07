@@ -1,6 +1,6 @@
-**BOOLEAN FUNCTION MINIMIZATION
-**
-AIM:
+**BOOLEAN FUNCTION MINIMIZATION**
+
+**AIM:**
 
 To implement the given logic function verify its operation in Quartus using Verilog programming.
 
@@ -8,7 +8,7 @@ F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
 
 F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
-Equipment Required:
+**Equipment Required:**
 
 Hardware – PCs, Cyclone II , USB flasher
 
@@ -18,7 +18,7 @@ Theory
     Logic gates aare electronic circuits which perform logical functions on one or more inputs to produce one output.
 
 
-Procedure
+**Procedure**
 
 1.Type the program in Quartus software.
 
@@ -30,7 +30,7 @@ Procedure
 
 5.For different input combinations generate the timing diagram.
 
-PROGRAM:
+**PROGRAM:**
 ![program 2](https://github.com/Kalyanesree/implementation-of-combinational-logic/assets/163311552/b13d744f-c26f-426c-86bd-80031fcbd226)
 
 
@@ -38,21 +38,21 @@ PROGRAM:
 
 Developed by:KALYANE SREE M     RegisterNumber:212222050028
 
-RTL realization
+**RTL realization**
 ![circuit 2](https://github.com/Kalyanesree/implementation-of-combinational-logic/assets/163311552/ddd53e4d-956d-4e9c-9d46-7893c5d86f7f)
 
-Output:
+**Output:**
 
-RTL
+**RTL**
 ![table 2](https://github.com/Kalyanesree/implementation-of-combinational-logic/assets/163311552/b456f9f6-2bd8-4ecf-b3f8-6b66a358ab48)
 
 
-Timing Diagram
+**Timing Diagram**
 ![timing 2](https://github.com/Kalyanesree/implementation-of-combinational-logic/assets/163311552/4b8b5937-95b6-409d-bc49-c22f2eb23985)
 
 
 
-Result:
+**Result:**
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
