@@ -15,7 +15,7 @@ Hardware – PCs, Cyclone II , USB flasher
 Software – Quartus prime
 
 Theory 
-    Logic gates aare electronic circuits which perform logical functions on one or more inputs to produce one output.
+    Logic gates are electronic circuits which perform logical functions on one or more inputs to produce one output.
 
 
 **Procedure**
@@ -32,9 +32,6 @@ Theory
 
 **PROGRAM:**
 ![program 2](https://github.com/Kalyanesree/implementation-of-combinational-logic/assets/163311552/b13d744f-c26f-426c-86bd-80031fcbd226)
-
-
-
 
 Developed by:KALYANE SREE M     RegisterNumber:212222050028
 
